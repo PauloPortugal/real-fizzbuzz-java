@@ -10,7 +10,7 @@ Prints out the following for a contiguous range of numbers:
 * if the number contains a `three` output the text `lucky`, overriding any existing behaviour
 * report at the end of the program showing how many times each `word` was substituted
 
-There is also [Clojure version](https://github.com/PauloPortugal/real-fizzbuzz-clojure) and a [Go version](https://github.com/PauloPortugal/real-fizzbuzz-go).
+There is also a [Clojure version](https://github.com/PauloPortugal/real-fizzbuzz-clojure) and a [Go version](https://github.com/PauloPortugal/real-fizzbuzz-go).
 
 ## Example
 
